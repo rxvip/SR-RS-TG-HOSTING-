@@ -1,0 +1,16 @@
+pyTelegramBotAPI
+requests
+python-dotenv
+aiohttp
+flask
+numpy
+pandas
+beautifulsoup4
+lxml
+Pillow
+matplotlib
+scipy
+scikit-learn
+pytest
+pyrogram
+git+https://github.com/pytgcalls/pytgcalls.git
